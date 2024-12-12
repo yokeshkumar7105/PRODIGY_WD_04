@@ -1,8 +1,9 @@
 
 
-# 👨‍💻 Personal PortFolio
+# 👨‍💻 PortFolio Website
 
-Welcome to my personal portfolio👨‍💻, a curated collection of my creative🎨 and professional journey. This portfolio showcases my expertise, dedication, and passion for design and innovation. <a href="https://yokeshkumar7105.github.io/portfolio-Yokeshkumar/">Live Demo</a>
+Build a personal portfolio website that showcases your skills, projects, and accomplishments as a web developer. Design an attractive and visually appealing layout that captures visitors' attention. Include a home page with a captivating headline, professional photo, and summary of your skills. Provide an "About Me" section with a detailed background, education, and professional experience.
+<a href="https://yokeshkumar7105.github.io/portfolio-Yokeshkumar/">Live Demo</a>
 
 ## 📌Techstack
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white) &nbsp; ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) &nbsp; ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black) &nbsp; ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwindcss&logoColor=white) &nbsp;![GSAP](https://img.shields.io/badge/GSAP-React-brightgreen?style=flat&logo=greensock) &nbsp;![Lenis](https://img.shields.io/badge/Lenis-blue?style=flat&logo=react)
