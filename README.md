@@ -1,14 +1,12 @@
 
 
-# 👨‍💻 PortFolio Website
+# PortFolio Website
 
-Build a personal portfolio website that showcases your skills, projects, and accomplishments as a web developer. Design an attractive and visually appealing layout that captures visitors' attention. Include a home page with a captivating headline, professional photo, and summary of your skills. Provide an "About Me" section with a detailed background, education, and professional experience.
+Built a personal portfolio website which showcases my skills, projects, and accomplishments as a web developer. I designed an attractive and visually appealing layout that captures visitors' attention. Include a home page with a captivating headline and summary of my skills. Provided an "About Me" section with a detailed background and professional experience.
 <a href="https://yokeshkumar7105.github.io/portfolio-Yokeshkumar/">Live Demo</a>
 
-## 📌Techstack
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white) &nbsp; ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) &nbsp; ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black) &nbsp; ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwindcss&logoColor=white) &nbsp;![GSAP](https://img.shields.io/badge/GSAP-React-brightgreen?style=flat&logo=greensock) &nbsp;![Lenis](https://img.shields.io/badge/Lenis-blue?style=flat&logo=react)
 
-## 📌Screenshots
+## Sample Screenshots
 
 ![Homepage](https://img.shields.io/badge/Home&nbsp;page-%230078D4?style=flat&colorB=%23A3E635)
 
@@ -38,36 +36,5 @@ Build a personal portfolio website that showcases your skills, projects, and acc
 
 ![image](https://github.com/user-attachments/assets/7bebd362-155d-4f79-9b48-25c399319d59)
 
-## 📌Demo
 
-https://github.com/user-attachments/assets/c4229d48-3bdb-46f5-b89b-825802340b42
-
-**Check out the website here ➡️** https://yokeshkumar7105.github.io/portfolio-Yokeshkumar/
-
-## 📌Installation
-
-Follow the below steps to run the application,
-
-**Step 1:** Run this command in your terminal to make a clone
-
-```
-gh repo clone yokeshkumar7105/portfolio-Yokeshkumar
-```
-or 
-Download the ZIP file
-
-**Step 2:** Change the path to
-```
-cd portfolio-Yokeshkumar-main
-```
-**Step 3:** Vite Installation
-```
-npm install vite
-```
-**Step 4:** 
-```
-npm run dev
-```
-
-![GitHub Views](https://komarev.com/ghpvc/?username=yokeshkumar7105&repository=portfolio-Yokeshkumar)
 
